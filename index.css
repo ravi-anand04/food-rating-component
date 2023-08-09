@@ -1,0 +1,20 @@
+.ratingDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 300px;
+  border: 3px solid rgb(254, 2, 157);
+  border-radius: 10px;
+  margin: auto;
+  margin-top: auto;
+  height: 200px;
+}
+
+.highlight {
+  color: rgb(255, 0, 0);
+  font-weight: 800;
+}
+
+.star {
+  font-size: 2rem;
+}
